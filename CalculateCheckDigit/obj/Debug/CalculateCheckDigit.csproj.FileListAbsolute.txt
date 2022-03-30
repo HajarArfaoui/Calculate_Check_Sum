@@ -1,0 +1,6 @@
+C:\Users\Hajar\Desktop\CalculateCheckDigit\CalculateCheckDigit\bin\Debug\CalculateCheckDigit.exe.config
+C:\Users\Hajar\Desktop\CalculateCheckDigit\CalculateCheckDigit\bin\Debug\CalculateCheckDigit.exe
+C:\Users\Hajar\Desktop\CalculateCheckDigit\CalculateCheckDigit\bin\Debug\CalculateCheckDigit.pdb
+C:\Users\Hajar\Desktop\CalculateCheckDigit\CalculateCheckDigit\obj\Debug\CalculateCheckDigit.csprojResolveAssemblyReference.cache
+C:\Users\Hajar\Desktop\CalculateCheckDigit\CalculateCheckDigit\obj\Debug\CalculateCheckDigit.exe
+C:\Users\Hajar\Desktop\CalculateCheckDigit\CalculateCheckDigit\obj\Debug\CalculateCheckDigit.pdb
